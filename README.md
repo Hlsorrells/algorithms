@@ -14,6 +14,17 @@ This files holds some various algorithms working specifically with arrays and in
 
 </details>
 
+## counting.js
+This files holds some various algorithms working specifically with counting.
+<details>
+    <summary markdown="span">Click to expand counting.js file details</summary>
+
+### Functions
+
+- count occurrences of vowels in a string
+
+</details>
+
 ## filterFunction.js
 This files holds some various algorithms working specifically with the filter method.
 <details>
@@ -72,5 +83,6 @@ This files holds some various algorithms working specifically with strings.
 ### Functions
 
 - function to determine if a string (t) is a substring of another string (s)
+- count occurrences of vowels in a string
 
 </details>
