@@ -51,3 +51,14 @@ This files holds some various algorithms working specifically with numbers.
 - generate an array of unique random numbers
 
 </details>
+
+## strings.js
+This files holds some various algorithms working specifically with strings.
+<details>
+    <summary markdown="span">Click to expand graph.js file details</summary>
+
+### Functions
+
+- function to determine if a string (t) is a substring of another string (s)
+
+</details>
