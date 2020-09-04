@@ -3,14 +3,20 @@ This is a place where I will share the algorithms that I have found useful. I ho
 
 ## arrays.js
 This files holds some various algorithms working specifically with arrays and indexes.
+<details>
+    <summary markdown="span">Click to expand arrays.js file details</summary>
 
 ### Functions
 
 - indexOf() method
 - reverse array function that does not use the built-in .reverse() method
 
+</details>
+
 ## graph.js
 This code is my version of a graphing algorithm. 
+<details>
+    <summary markdown="span">Click to expand graph.js file details</summary>
 
 ### The code challenge
 To recreate an acyclic, directed graph of small non-negative unique integers. In this case, a directed graph is a data structure where a node is represented by a unique integer and each node has zero or more child nodes. In addition, the nodes were not allowed to directly or indirectly point to itself.
@@ -31,3 +37,16 @@ The first thing I had to do was to think about the individual nodes and the grap
 Now that my nodes were created, I could begin to create the relationships between the nodes and track which nodes had been picked as parent nodes. I used the **getRandomInt** function again to pick a random node from the **avlVertices** array; this node became the **baseNode** and is removed from the **avlVertices** array. With a **baseNode** selected, I could now determine how many child nodes **(edgeNode)** would be assigned using the **getRandomInt** function once again and assign each **edgeNode** to the **baseNode** array inside the **graphObj** object. By using the **usedEdges** variable as a container to hold each **edgeNode** between each iteration, I was able to determine if a duplicate **edgeNode** was selected and pass over that particular node duplication. This kept my object from having an array like "9":[3,3,6,7] where the 3 was duplicated but only exists once.
 
 The final step was to graph the **graphObj** object variable in a readable way to form the graph tree. This was accomplished using the **Object.entries(graphObj)** method to iterate over the **graphObj** object and print one key value pair per line onto the terminal console.
+
+</details>
+
+## numbers.js
+This files holds some various algorithms working specifically with numbers.
+<details>
+    <summary markdown="span">Click to expand graph.js file details</summary>
+
+### Functions
+
+- getUniqueRandomNums function
+
+</details>
