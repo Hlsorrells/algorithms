@@ -10,6 +10,7 @@ This files holds some various algorithms working specifically with arrays and in
 
 - indexOf() method
 - reverse array function that does not use the built-in .reverse() method
+- get a select number of random elements within an array
 
 </details>
 
@@ -47,6 +48,6 @@ This files holds some various algorithms working specifically with numbers.
 
 ### Functions
 
-- getUniqueRandomNums function
+- generate an array of unique random numbers
 
 </details>
