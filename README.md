@@ -25,6 +25,17 @@ This files holds some various algorithms working specifically with counting.
 
 </details>
 
+## dates.js
+This files holds some various algorithms working specifically with dates.
+<details>
+    <summary markdown="span">Click to expand dates.js file details</summary>
+
+### Functions
+
+- date format function for MySQL DATETIME format
+
+</details>
+
 ## filterFunction.js
 This files holds some various algorithms working specifically with the filter method.
 <details>
