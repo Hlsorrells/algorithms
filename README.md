@@ -28,7 +28,7 @@ This files holds some various algorithms working specifically with counting.
 ## filterFunction.js
 This files holds some various algorithms working specifically with the filter method.
 <details>
-    <summary markdown="span">Click to expand arrays.js file details</summary>
+    <summary markdown="span">Click to expand filterFunction.js file details</summary>
 
 ### Functions
 
@@ -67,7 +67,7 @@ The final step was to graph the **graphObj** object variable in a readable way t
 ## numbers.js
 This files holds some various algorithms working specifically with numbers.
 <details>
-    <summary markdown="span">Click to expand graph.js file details</summary>
+    <summary markdown="span">Click to expand numbers.js file details</summary>
 
 ### Functions
 
@@ -78,7 +78,7 @@ This files holds some various algorithms working specifically with numbers.
 ## strings.js
 This files holds some various algorithms working specifically with strings.
 <details>
-    <summary markdown="span">Click to expand graph.js file details</summary>
+    <summary markdown="span">Click to expand strings.js file details</summary>
 
 ### Functions
 
