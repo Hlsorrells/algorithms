@@ -14,6 +14,18 @@ This files holds some various algorithms working specifically with arrays and in
 
 </details>
 
+## filterFunction.js
+This files holds some various algorithms working specifically with the filter method.
+<details>
+    <summary markdown="span">Click to expand arrays.js file details</summary>
+
+### Functions
+
+- for loop specifically for filtering in/out certain values from an array
+- arrow function example of filter method
+
+</details>
+
 ## graph.js
 This code is my version of a graphing algorithm. 
 <details>
