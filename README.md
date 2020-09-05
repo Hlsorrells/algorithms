@@ -82,6 +82,7 @@ This files holds some various algorithms working specifically with numbers.
 
 ### Functions
 
+- sum of integers from 1 to argument parameter
 - generate an array of unique random numbers
 
 </details>
