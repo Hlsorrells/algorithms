@@ -75,6 +75,7 @@ This folder holds some various algorithms working specifically with mathematical
 
 ### Functions
 
+- algorithms for basic maths operations
 - count occurrences of vowels in a string
 - algorithms for factorializing numbers
 - version of the Fizz Bizz algorithm challenge
