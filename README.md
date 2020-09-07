@@ -1,16 +1,17 @@
 # algorithms
 This is a place where I will share the algorithms that I have found useful. I hope these help you with your problem solving as well.
 
-## arrays.js
-This files holds some various algorithms working specifically with arrays and indexes.
+## Arrays Folder
+This folder holds some various algorithms working specifically with arrays and indexes.
 <details>
-    <summary markdown="span">Click to expand arrays.js file details</summary>
+    <summary markdown="span">Click to expand Array Folder details</summary>
 
 ### Functions
 
 - indexOf() method
-- reverse array function that does not use the built-in .reverse() method
 - get a select number of random elements within an array
+- reverse array function that does not use the built-in .reverse() method
+- splice a particular element from an array by value
 
 </details>
 
