@@ -8,8 +8,9 @@ This folder holds some various algorithms working specifically with arrays and i
 
 ### Functions
 
-- indexOf() method
+- filter array function that does not use the built-in .filter() method
 - get a select number of random elements within an array
+- indexOf() method
 - reverse array function that does not use the built-in .reverse() method
 - splice a particular element from an array by value
 
