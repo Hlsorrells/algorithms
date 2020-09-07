@@ -77,14 +77,14 @@ The final step was to graph the **graphObj** object variable in a readable way t
 
 </details>
 
-## numbers.js
-This files holds some various algorithms working specifically with numbers.
+## Numbers Folder
+This folder holds some various algorithms working specifically with numbers.
 <details>
-    <summary markdown="span">Click to expand numbers.js file details</summary>
+    <summary markdown="span">Click to expand Numbers Folder details</summary>
 
 ### Functions
 
-- sum of integers from 1 to argument parameter
+- sum of integers from 1 to argument parameter (specified number)
 - generate an array of unique random numbers
 
 </details>
