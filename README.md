@@ -14,6 +14,18 @@ This folder holds some various algorithms working specifically with arrays and i
 
 </details>
 
+## Booleans Folder
+This folder holds some various algorithms working specifically with booleans.
+<details>
+    <summary markdown="span">Click to expand Booleans Folder details</summary>
+
+### Functions
+
+- toggle between true and false
+- terinary example
+
+</details>
+
 ## Computer Science Folder
 
 ### graph.js
