@@ -26,10 +26,10 @@ This files holds some various algorithms working specifically with counting.
 
 </details>
 
-## dates.js
-This files holds some various algorithms working specifically with dates.
+## Dates Folder
+This folder holds some various algorithms working specifically with dates.
 <details>
-    <summary markdown="span">Click to expand dates.js file details</summary>
+    <summary markdown="span">Click to expand Dates Folder details</summary>
 
 ### Functions
 
