@@ -103,6 +103,7 @@ This folder holds some various algorithms working specifically with numbers.
 ### Functions
 
 - sum of integers from 1 to argument parameter (specified number)
+- algorithms to log numbers in a range
 - generate an array of unique random numbers
 
 </details>
