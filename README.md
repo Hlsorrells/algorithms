@@ -44,7 +44,8 @@ This folder holds algorithms using various methods with multiple examples.
 ### Functions
 
 - .filter() method
-- indexOf() method
+- .includes() method
+- .indexOf() method
 - .splice() method
 
 </details>
@@ -95,7 +96,7 @@ This folder holds some various algorithms working specifically with strings.
 
 ### Functions
 
-- includes method function to determine if a string (t) is a substring of another string (s)
+- determine if a string is a substring
 - count occurrences of vowels in a string
 
 </details>
