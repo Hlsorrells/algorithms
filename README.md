@@ -89,6 +89,7 @@ This folder holds algorithms using various methods with multiple examples.
 - .filter() method
 - .includes() method
 - .indexOf() method
+- .map() method
 - .splice() method
 
 </details>
