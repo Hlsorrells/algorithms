@@ -55,17 +55,6 @@ The final step was to graph the **graphObj** object variable in a readable way t
 
 </details>
 
-## counting.js
-This files holds some various algorithms working specifically with counting.
-<details>
-    <summary markdown="span">Click to expand counting.js file details</summary>
-
-### Functions
-
-- count occurrences of vowels in a string
-
-</details>
-
 ## Dates Folder
 This folder holds some various algorithms working specifically with dates.
 <details>
@@ -74,6 +63,18 @@ This folder holds some various algorithms working specifically with dates.
 ### Functions
 
 - date format function for MySQL DATETIME format
+
+</details>
+
+
+## Mathematics Folder
+This folder holds some various algorithms working specifically with mathematical operations.
+<details>
+    <summary markdown="span">Click to expand Mathematics Folder details</summary>
+
+### Functions
+
+- count occurrences of vowels in a string
 
 </details>
 
