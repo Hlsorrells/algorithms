@@ -88,14 +88,14 @@ This files holds some various algorithms working specifically with numbers.
 
 </details>
 
-## strings.js
-This files holds some various algorithms working specifically with strings.
+## Strings Folder
+This folder holds some various algorithms working specifically with strings.
 <details>
-    <summary markdown="span">Click to expand strings.js file details</summary>
+    <summary markdown="span">Click to expand Strings Folder details</summary>
 
 ### Functions
 
-- function to determine if a string (t) is a substring of another string (s)
+- includes method function to determine if a string (t) is a substring of another string (s)
 - count occurrences of vowels in a string
 
 </details>
