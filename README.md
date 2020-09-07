@@ -12,7 +12,6 @@ This folder holds some various algorithms working specifically with arrays and i
 - get a select number of random elements within an array
 - indexOf() method
 - reverse array function that does not use the built-in .reverse() method
-- splice a particular element from an array by value
 
 </details>
 
@@ -38,15 +37,15 @@ This folder holds some various algorithms working specifically with dates.
 
 </details>
 
-## filterFunction.js
-This files holds some various algorithms working specifically with the filter method.
+## Methods Folder
+This folder holds algorithms using various methods with multiple examples.
 <details>
-    <summary markdown="span">Click to expand filterFunction.js file details</summary>
+    <summary markdown="span">Click to expand Methods Folder details</summary>
 
 ### Functions
 
-- for loop specifically for filtering in/out certain values from an array
-- arrow function example of filter method
+- .filter() method
+- .splice() method
 
 </details>
 
