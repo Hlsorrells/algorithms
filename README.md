@@ -10,6 +10,7 @@ This folder holds some various algorithms working specifically with arrays and i
 
 - filter array function that does not use the built-in .filter() method
 - get a select number of random elements within an array
+- map array function that does not use the built-in .map() method
 - reverse array function that does not use the built-in .reverse() method
 
 </details>
