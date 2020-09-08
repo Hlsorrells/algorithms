@@ -9,3 +9,15 @@ if (a > -1){
     alert("Nah, they are lame");
 }
 
+// Additional example of indexOf method
+const avlIceCream = ["Chocolate", "Strawberry", "Cookie Dough"].map(v => v.toLowerCase().replace(/\s+/g, ""))
+const userFav = (iceCream) => {
+    flavor = iceCream.toLowerCase().replace(/\s+/g, "")
+    if (avlIceCream.indexOf(flavor) > -1) {
+        console.log(`We have ${iceCream} ice cream!`)
+    } else {
+        console.log(`I'm sorry. ${iceCream} is not available at this time.`)
+    }
+}
+userFav("Vanilla Bean")
+userFav("chocolate")
