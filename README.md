@@ -124,6 +124,7 @@ This folder holds some various algorithms working specifically with strings.
 
 - algorith that returns an acronym for a given string
 - algorith to capitalize each word in a string
+- algorith to return longest word in a given string
 - algorith that removes vowels from a string
 - algoriths that determines if a parameter is a palindrome (the same backwards and forwards)
 - various algorithms to remove spaces from strings
