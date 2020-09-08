@@ -122,14 +122,15 @@ This folder holds some various algorithms working specifically with strings.
 
 ### Functions
 
-- algorith that returns an acronym for a given string
-- algorith to capitalize each word in a string
-- algorith to return longest word in a given string
-- algorith that removes vowels from a string
-- algoriths that determines if a parameter is a palindrome (the same backwards and forwards)
+- algorithm that returns an acronym for a given string
+- algorithm to capitalize each word in a string
+- algorithm to return the first non-repeating character in a given string
+- algorithm to return longest word in a given string
+- algorithm that removes vowels from a string
+- algorithms that determines if a parameter is a palindrome (the same backwards and forwards)
 - various algorithms to remove spaces from strings
 - determine if a string is a substring
-- algorith that takes a string and swaps the case of each letter
+- algorithm that takes a string and swaps the case of each letter
 - count occurrences of vowels in a string
 
 </details>
