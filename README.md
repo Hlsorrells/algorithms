@@ -163,6 +163,7 @@ This folder holds some various algorithms working specifically with strings.
    - algorithm to return longest word in a given string
    - algorithm that removes vowels from a string
    - algorithms that determines if a parameter is a palindrome (the same backwards and forwards)
+   - algorithm that determines if a string is a pangram (string contains every letter of the alphabet)
    - various algorithms to remove spaces from strings
    - algorithm to reverse the words in a string
    - determine if a string is a substring
