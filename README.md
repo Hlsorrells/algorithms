@@ -125,6 +125,7 @@ This folder holds some various algorithms working specifically with strings.
 - algorith to capitalize each word in a string
 - various algorithms to remove spaces from strings
 - determine if a string is a substring
+- algorith that takes a string and swaps the case of each letter
 - count occurrences of vowels in a string
 
 </details>
