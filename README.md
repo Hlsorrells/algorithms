@@ -122,6 +122,7 @@ This folder holds some various algorithms working specifically with strings.
 
 ### Functions
 
+- algorith that returns an acronym for a given string
 - algorith to capitalize each word in a string
 - various algorithms to remove spaces from strings
 - determine if a string is a substring
