@@ -56,6 +56,9 @@ The final step was to graph the **graphObj** object variable in a readable way t
 
 </details>
 
+### text2speech.js
+This is an algorith that uses the built-in windows methods to convert text to speech
+
 ## Dates Folder
 This folder holds some various algorithms working specifically with dates.
 <details>
