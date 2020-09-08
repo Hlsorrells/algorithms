@@ -129,6 +129,7 @@ This folder holds some various algorithms working specifically with strings.
 - algorithm that removes vowels from a string
 - algorithms that determines if a parameter is a palindrome (the same backwards and forwards)
 - various algorithms to remove spaces from strings
+- algorithm to reverse the words in a string
 - determine if a string is a substring
 - algorithm that takes a string and swaps the case of each letter
 - count occurrences of vowels in a string
