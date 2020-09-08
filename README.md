@@ -122,6 +122,7 @@ This folder holds some various algorithms working specifically with strings.
 
 ### Functions
 
+- various algorithms to remove spaces from strings
 - determine if a string is a substring
 - count occurrences of vowels in a string
 
