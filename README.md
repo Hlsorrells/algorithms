@@ -115,6 +115,13 @@ This folder holds some various algorithms working specifically with numbers.
 
 </details>
 
+## Operators Folder
+This folder holds some various examples of how to use logical operators
+
+### Functions
+
+- OR operator
+
 ## Strings Folder
 This folder holds some various algorithms working specifically with strings.
 <details>
