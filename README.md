@@ -114,6 +114,7 @@ This folder holds algorithms using various methods with multiple examples.
 <!-- <details>
     <summary markdown="span">Click to expand Methods Folder details</summary> -->
 
+   - .eval() method   **This method should not be used in best practice due to security risks**
    - .filter() method
    - .includes() method
    - .indexOf() method
