@@ -169,6 +169,7 @@ This folder holds some various algorithms working specifically with strings.
    - algorithm that determines if a string is a pangram (string contains every letter of the alphabet)
    - various algorithms to remove spaces from strings
    - algorithm to reverse the words in a string
+   - algorithm to replace all vowels with 'e' then return string in uppercase
    - determine if a string is a substring
    - algorithm that takes a string and swaps the case of each letter
    - count occurrences of vowels in a string
