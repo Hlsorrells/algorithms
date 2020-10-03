@@ -26,6 +26,7 @@ This folder holds some various algorithms working specifically with booleans.
 <!-- <details>
     <summary markdown="span">Click to see functions</summary> -->
 
+   - example of minimalist if statement
    - toggle between true and false
    - terinary example
 
