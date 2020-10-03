@@ -96,6 +96,7 @@ This folder holds some various algorithms working specifically with mathematical
 <!-- <details>
     <summary markdown="span">Click to see functions</summary> -->
 
+   - algorithms for absolute values
    - algorithms for basic maths operations
    - count occurrences of vowels in a string
    - algorithms for factorializing numbers
