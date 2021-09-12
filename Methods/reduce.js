@@ -1,5 +1,12 @@
+// Reduce() Method
+    // used to apply a function to each element in the array to reduce the array to a single value
+
 // Array.prototype.reduce()
-let result = arr.reduce(callback, initValue)
+let result = arr.reduce(callback, initialValue)
+    // Initial value is optional
+    // Callback function can take 4 arguments (accumulator, currentValue, index, originalArray)
+
+
 // Specifying an initial value
 let sum = arr.reduce((acc, val) => acc + val, 100)
 
