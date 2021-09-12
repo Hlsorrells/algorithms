@@ -9,6 +9,25 @@ if (a > -1){
     alert("Nah, they are lame");
 }
 
+// Write a function that returns the largest number present in a given array
+var maxNum = arr => Math.max(...arr)
+var maxNumber = function(arr) { return Math.max(...arr)}
+
+// Write a function that returns the largest number present in a given array
+var minNum = arr => Math.min(...arr)
+var minNumber = function(arr) { return Math.min(...arr)}
+
+// Write a function that sums all the numbers in the given array and returns the total
+var sumArr = arr => arr.reduce((a,b) => a + b, 0)
+var sumArray = function(arr) {
+    var result = 0;
+    for (var i=0; i<arr.length; i++) {
+        var currentNum = arr[i];
+        result += currentNum;
+    }
+    return result;
+}
+
 // A function that returns a new array with the data reversed without the use of .reverse() method
 var myArray = [1, 2, 3, 4, 5];
 
