@@ -45,7 +45,7 @@ const reverseArray = () => {
 
 reverseArray(myArray);
 
-// 4. Given a one dimensional array of data write a function that return M random elements of that array. Each element must also be from a different position in the array. Don't just use the sample function that is built into your environment.
+// Given a one dimensional array of data write a function that return M random elements of that array. Each element must also be from a different position in the array. Don't just use the sample function that is built into your environment.
 
 const getRandomElement = (m, elArray) => {
 
@@ -84,5 +84,4 @@ const getRandomElement = (m, elArray) => {
         console.log("You must designate a number of unique elements no larger than the number of elements in the array.");
     }
 }
-
 getRandomElement(2, ["I", "am", "a", "full", "stack", "web", "developer", "that", "writes", "code"]);
