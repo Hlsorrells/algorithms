@@ -24,3 +24,18 @@ function parity(n) {
 	if(n % 2 === 0) return "even"
 	return "odd"
 }
+
+// Double the even numbers and leave the odd numbers the same
+let arr = [1,2,3,4,5];
+
+let newArr = arr.map( (v,i,a) => {
+    return v%2 === 0 ? v * 2 : v
+});
+
+let newArray = arr.map( (v,i,a) => {
+    if (v%2 === 0) {
+        return v * 2
+    } else {
+        return v
+    }
+});
