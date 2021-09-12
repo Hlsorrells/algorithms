@@ -12,10 +12,18 @@ let newArr = oldArr.filter(callback);
 let even = arr.filter(val => {
     return val % 2 === 0;
   });
+
+let evenArrow = arr.filter(val => val % 2 === 0);
   // even = [2,4,6]
 
-// arrow function version
-let even = arr.filter(val => val % 2 === 0);
-  // even = [2,4,6]
 
-  let newArray = oldArray
+// Work with arrays and objects
+let data = [
+  { country: 'China', population: 1409517397 },
+  { country: 'India', population: 1339180127 },
+  { country: 'USA', population: 324459463 },
+  { country: 'Indonesia', population: 263991379 }
+]
+
+// Create a new array with only the countries that have a population higher than 500 million.
+let cities = data.filter( val => val.population > 500000000);
