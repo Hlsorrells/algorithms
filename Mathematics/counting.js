@@ -1,12 +1,13 @@
-// Write code to return the the number of vowels in `str`
+// Also see the Numbers/logNums.js file for logging numbers
 
+// Write code to return the the number of vowels in `str`
 let vowels = ["a", "e", "i", "o", "u"]
 var vowelCount = str => str.toLowerCase().split("").filter(
 	ch => vowels.includes(ch)).length;
 console.log(vowelCount("i think, therefore i am."))
 
-// Write a function that takes in a string and outputs the number of vowels (not counting y).
 
+// Write a function that takes in a string and outputs the number of vowels (not counting y).
 var countVowels = function (str) {
 	var count = 0;
 	var input = str.toLowerCase();
