@@ -1,14 +1,3 @@
-// indexOf()
-favBands = ["Band 1", "Band 2", "Band 3", "Band 4"];
-var userBand = prompt("what is your fav band?");
-var a = favBands.indexOf(userBand);
-
-if (a > -1){
-    alert("Yeah, I love them");
-} else {
-    alert("Nah, they are lame");
-}
-
 // Given a one dimensional array of data write a function that return M random elements of that array. Each element must also be from a different position in the array. Don't just use the sample function that is built into your environment.
 
 const getRandomElement = (m, elArray) => {
@@ -49,19 +38,3 @@ const getRandomElement = (m, elArray) => {
     }
 }
 getRandomElement(2, ["I", "am", "a", "full", "stack", "web", "developer", "that", "writes", "code"]);
-
-// Work with arrays and objects
-let data = [
-    { country: 'China', population: 1409517397 },
-    { country: 'India', population: 1339180127 },
-    { country: 'USA', population: 324459463 },
-    { country: 'Indonesia', population: 263991379 }
-]
-
-// Create a new array with only the countries that have a population higher than 500 million.
-let cities = data.filter( val => val.population > 500000000);
-
-// Sum up the population of every country except China
-let popSum = data.reduce( (acc, val) => {
-    return val.country == 'China' ? acc: acc + val.population
-}, 0)
